@@ -11,6 +11,10 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+
+/*
+ *@author:<Celline>
+ */
 public class MainActivity extends AppCompatActivity {
 
     private EditText etA;
@@ -50,6 +54,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /*
+     *@author:<Celline>
+     */
     private void calc() {
         float A = Float.parseFloat(etA.getText().toString());
         float B = Float.parseFloat(etB.getText().toString());

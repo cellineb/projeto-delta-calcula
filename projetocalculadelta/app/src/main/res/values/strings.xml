@@ -1,3 +1,4 @@
+
 <resources>
     <string name="app_name">projeto-delta</string>
     <string name="letraA">A</string>
@@ -9,4 +10,6 @@
     <string name="resultadox1">x1 =</string>
     <string name="resultadox2">x2 =</string>
     <string name="naotemraiz">A equação não tem raizes reais</string>
+    <string name="nome">Celline Bitencourt de Souza</string>
+    <string name="RA">1110482313019</string>
 </resources>
